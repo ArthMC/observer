@@ -1,1 +1,1 @@
-We've moved to codeberg. https://codeberg.org/arth/w
+We've moved to codeberg. https://codeberg.org/arth/
